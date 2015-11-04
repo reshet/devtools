@@ -1,0 +1,3 @@
+#!/bin/bash 
+open -a Terminal.app dispatch-tt-wuapp01.sh &&
+open -a Terminal.app dispatch-tt-wuapp02.sh 
